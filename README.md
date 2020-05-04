@@ -63,7 +63,7 @@ It is **not permitted** to:
 * Absuing GitHub's issue ticket or pull system for support questions without any information ala "does not work". In case there is a problem ensure you provide as much as possible on details otherwise the issue ticket will be closed without warning.
 * Posting non-generic (default) keys here on GitHub, the key's which are official allowed to be mention in public are listed over [here](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys).
 * Links to warez, forums or software programs. Any topic/ticket with such links in it will be edited, you will be excluded from the project and it gets removed or/and locked.
-* Creating multiple issue tickets with the same matter, use GitHub's issue ticket search function to avoid creating dublicates.
+* Creating multiple issue tickets with the same matter, use GitHub's issue ticket search function to avoid creating duplicates.
 * Everything which bypasses the contribution guidelines, GitHUb ToS or the projects own Code of Conduct.
 
 
